@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DummyStore/static/css/main.352a34be.css",
+    "main.js": "/DummyStore/static/js/main.58345fb4.js",
+    "static/js/787.b7bfc66d.chunk.js": "/DummyStore/static/js/787.b7bfc66d.chunk.js",
+    "index.html": "/DummyStore/index.html",
+    "main.352a34be.css.map": "/DummyStore/static/css/main.352a34be.css.map",
+    "main.58345fb4.js.map": "/DummyStore/static/js/main.58345fb4.js.map",
+    "787.b7bfc66d.chunk.js.map": "/DummyStore/static/js/787.b7bfc66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.352a34be.css",
+    "static/js/main.58345fb4.js"
+  ]
+}
